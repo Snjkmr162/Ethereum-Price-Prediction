@@ -67,14 +67,6 @@ The goal is to enhance the precision and reliability of ETH price forecasts by i
 
 ---
 
-## 🚀 Next Steps
-- Implement Gradient Boosting (XGBoost/LightGBM) for stronger baselines.  
-- Test sequential deep learning models (LSTM, GRU, Transformer).  
-- Expand sentiment sources beyond Wikipedia (e.g., Twitter, Reddit).  
-- Apply cross-validation and hyperparameter tuning for robustness.  
-
----
-
 ## 📚 Requirements
 - Python 3.11  
-- Libraries:
+- Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, yfinance, jupyter.
