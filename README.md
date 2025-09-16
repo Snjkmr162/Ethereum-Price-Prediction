@@ -7,10 +7,7 @@ The goal is to enhance the precision and reliability of ETH price forecasts by i
 
 ## 📂 Project Structure
 - `notebooks/Ethereum_Prediction.ipynb` — full analysis, preprocessing, modeling
-- `reports/Project_Presentation.pptx` — final project presentation
 - `README.md` — project overview and insights (you’re here!)
-- `requirements.txt` — Python dependencies
-
 ---
 
 ## 🧠 Main Objectives
@@ -54,9 +51,6 @@ The goal is to enhance the precision and reliability of ETH price forecasts by i
 - Time-series plots of ETH price and sentiment signals.  
 - Moving average smoothing to highlight underlying trends.  
 - Comparative charts for predicted vs. actual values.  
-
-*(Screenshots can be added here in `images/` for clarity.)*
-
 ---
 
 ## 🔍 Analysis & Findings
